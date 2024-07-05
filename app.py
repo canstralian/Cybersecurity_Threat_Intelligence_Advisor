@@ -27,7 +27,7 @@ def respond(
 
     messages.append({"role": "user", "content": message})
 
-    response = ""
+    response = "Here are some common Cyber Security Threat accorss the world: 1: DD0S, 2:Malware"
 
     for message in client.chat_completion(
         messages,
