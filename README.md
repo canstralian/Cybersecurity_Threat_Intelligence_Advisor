@@ -1,5 +1,5 @@
 ---
-title: Gradio Chatbot
+title: Cybersecurity Threat Intelligence Advisor
 emoji: 💬
 colorFrom: yellow
 colorTo: purple
