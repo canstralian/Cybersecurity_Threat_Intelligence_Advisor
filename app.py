@@ -27,7 +27,7 @@ def respond(
 
     messages.append({"role": "user", "content": message})
 
-    response = "Here are some common Cyber Security Threat accorss the world: "
+    response = ""
    
     
     
