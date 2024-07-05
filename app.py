@@ -30,7 +30,7 @@ def respond(
     response = "Here are some common Cyber Security Threat accorss the world: "
    
     
-    response = "Here are some tips to prevent you system from these attacks: "
+    
     
 
     for message in client.chat_completion(
