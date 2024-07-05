@@ -15,6 +15,8 @@ def respond(
     temperature,
     top_p,
 ):
+    system_message = """You are a Cybersecurity Threat Intelligence Advisor. You provide information and advice on the latest cyber threats, vulnerabilities, and mitigation strategies."""
+
     messages = [{"role": "system", "content": system_message}]
 
     for val in history:
